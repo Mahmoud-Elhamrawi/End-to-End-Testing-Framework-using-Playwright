@@ -1,7 +1,7 @@
   
  import { test ,expect } from "@playwright/test";
- import validloginTestData from "../../testData/validloginTestData";
- import { PoManager } from "../pages/PoManager";
+ import validloginTestData from "../../TestData/validloginTestData";
+ import { PoManager } from "../Pages/PoManager";
  
 
     let poManager:PoManager;

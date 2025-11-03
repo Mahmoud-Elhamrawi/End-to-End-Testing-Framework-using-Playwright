@@ -1,6 +1,6 @@
 import { type Page } from "@playwright/test";
-import { LoginPage } from "./LoginPage";
-import { HomePage } from "./HomePages";
+import { LoginPage } from "../Pages/LoginPage";
+import { HomePage } from "../Pages/HomePages";
 import { RegisterPage } from "../Pages/RegisterPage";
 
 

@@ -1,7 +1,7 @@
     import { test ,expect } from "@playwright/test";
       import ValidSignUpTestData from "../../TestData/ValidSignUpTestData"; 
       import InValid_SignUpTestData from "../../TestData/InValid_SignUpTestData";
-      import { PoManager } from "../pages/PoManager";
+      import { PoManager } from "../Pages/PoManager";
 
  
 
